@@ -13,6 +13,6 @@ function NavBar() {
       </Navbar.Brand>
     </Navbar>
   );
-}
+} 
 
 export default NavBar;

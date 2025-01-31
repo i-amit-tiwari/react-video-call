@@ -11,7 +11,7 @@ import "./Video.css";
 
 const Video = () => {
   const {
-    call,
+    call, 
     isCallAccepted,
     myVideoRef,
     partnerVideoRef,

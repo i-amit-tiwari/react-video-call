@@ -13,6 +13,6 @@ const App = () => {
       <IncomingCall />
     </>
   );
-};
+};  
 
 export default App;

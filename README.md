@@ -3,7 +3,7 @@
 Welcome to the React Video Call App, a real-time video calling application that allows users to connect with each other, providing the ability to initiate video calls and control their audio and video settings.
 
 ## Features
-
+ 
 - Initiate video calls with other users.
 - Mute/unmute your microphone during a call.
 - Enable/disable your camera during a call.

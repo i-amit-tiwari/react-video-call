@@ -9,7 +9,7 @@ const io = socketIO(server, {
   cors: {
     origin: "*",
     methods: ["GET", "POST"],
-  },
+  }, 
 });
 
 const PORT = process.env.PORT || 5000;

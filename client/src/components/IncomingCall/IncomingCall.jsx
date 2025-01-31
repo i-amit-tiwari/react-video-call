@@ -9,7 +9,7 @@ import "./IncomingCall.css";
 const IncomingCall = () => {
   const {
     receiveCall,
-    call,
+    call, 
     isCallAccepted,
     endIncomingCall,
     setPartnerUserId,
